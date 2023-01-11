@@ -1,0 +1,1 @@
+# Como-gerar-CHANGELOG-automaticamente
